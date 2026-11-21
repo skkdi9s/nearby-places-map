@@ -1,5 +1,6 @@
 # Nearby Places Map
 A Python command-line tool that takes an address and a radius, finds nearby cafés, pharmacies or restaurants, and shows them on an interactive map.
+
 ![Map example](docs/map_screenshot.png)
 ## Features
 - Address geocoding via Nominatim (OpenStreetMap)
