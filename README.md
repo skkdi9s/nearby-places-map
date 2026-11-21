@@ -11,7 +11,7 @@ A Python command-line tool that takes an address and a radius, finds nearby caf�
 Python 3.10+, `requests`, `folium`, `python-dotenv`, Nominatim, Overpass API, CARTO Basemaps
 ## Installation
 ```bash
-git clone <REPOSITORY_URL>
+git clone https://github.com/skkdi9s/nearby-places-map.git
 cd nearby-places-map
 python -m venv .venv
 # Windows (PowerShell): .venv\Scripts\Activate.ps1
@@ -51,5 +51,5 @@ The code is split into functions: `geocode`, `build_query`, `fetch_overpass`, `p
 - [ ] Place type via command-line arguments (`argparse`)
 - [ ] Unit tests for `parse_elements`
 - [ ] Web interface
-## License and data
-Code: MIT. Data © [OpenStreetMap](https://www.openstreetmap.org/copyright) contributors, map © [CARTO](https://carto.com/attributions).
+
+- [ ] Thanks for checking out the project! 🙌
