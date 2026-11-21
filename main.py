@@ -113,7 +113,7 @@ def find_places(lat, lon, radius, amenity):
 # ---------- Ввід ----------
 def ask_address():
     while True:
-        address = input("Введіть адресу (наприклад: Львів, Кучера 22): ").strip()
+        address = input("Введіть адресу (наприклад: Львів, Лукаша 5): ").strip()
         if not address:
             print("Адреса не може бути порожньою.")
             continue
