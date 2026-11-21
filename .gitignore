@@ -1,0 +1,4 @@
+.env
+.venv/
+map.html
+__pycache__/
