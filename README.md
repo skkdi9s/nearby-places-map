@@ -30,7 +30,7 @@ python main.py
 ```
 Example session:
 ```
-Enter an address (e.g. Lviv, Kuchera 22): Lviv, Rynok Square 1
+Enter an address (e.g. Lviv, Rynok Square 1 ): Lviv, Rynok Square 1
 Enter radius in meters (1-5000): 500
 Choose place type: 1
 Cafes: found 42 within 500 m
